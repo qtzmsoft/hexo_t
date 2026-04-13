@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 老李
+subtitle: '一个个人博客'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: lgw
+language: cn
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://www.bookshare.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -40,7 +40,11 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true # 生成文章文件夹
+marked:
+  prependRoot: true
+  postAsset: true
+  
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
