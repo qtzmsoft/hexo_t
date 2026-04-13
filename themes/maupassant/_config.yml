@@ -7,8 +7,8 @@ disqus:
   admin_label: ## The text of Disqus moderator badge, e.g. Mod
 uyan: ## Your uyan_id. e.g. 1234567
 livere: ## Your livere data-uid, e.g. MTAyMC8zMDAxOC78NTgz
-changyan: ## Your changyan appid, e.g. cyrALsXc8
-changyan_conf: ## Your changyan conf, e.g. prod_d8a508c2825ab57eeb43e7c69bba0e8b
+changyan: cyysRt8AY ## Your changyan appid, e.g. cyrALsXc8
+changyan_conf: prod_e2571c95f0a1b0d815e45a3607666e60 ## Your changyan conf, e.g. prod_d8a508c2825ab57eeb43e7c69bba0e8b
 gitalk: ## See: https://github.com/gitalk/gitalk
   enable: false ## If you want to use Gitment comment system please set the value to true.
   owner: ## Your GitHub ID, e.g. username
@@ -58,11 +58,11 @@ twikoo: ## See: https://twikoo.js.org
   region: ## Tencent CloudBase region, e.g. ap-shanghai
   path: ## Article path, e.g. window.location.pathname
 
-google_search: true ## Use Google search, true/false.
-baidu_search: false ## Use Baidu search, true/false.
+google_search: false ## Use Google search, true/false.
+baidu_search: true ## Use Baidu search, true/false.
 swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
 self_search: false ## Use a jQuery-based local search engine, true/false.
-google_analytics: ## Your Google Analytics tracking id, e.g. UA-42425684-2
+google_analytics: G-0NKVPPFS07 ## Your Google Analytics tracking id, e.g. UA-42425684-2
 baidu_analytics: ## Your Baidu Analytics tracking id, e.g. 8006843039519956000
 microsoft_clarity: ## Your Microsoft Clarity tracking id, e.g. zg2ctuea9j
 fancybox: true ## If you want to use fancybox please set the value to true.
