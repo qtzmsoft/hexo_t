@@ -126,7 +126,7 @@ widgets: ## Seven widgets in sidebar provided: search, info, category, tag, rece
 
 info:
   avatar: /img/avatar.png
-  discription: To be a better man.
+  discription: 完美制度下的人
   outlinkitem:
     - name: twitter
       outlink: https://twitter.com/username
@@ -142,18 +142,10 @@ info:
       message: RSS
 
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-    src: https://www.example1.com/favicon.ico
-    desc: XXX's Blog
-  - title: site-name2
-    url: http://www.example2.com/
-    src: https://www.example1.com/favicon.ico
-    desc: YYY's Blog
-  - title: site-name3
-    url: http://www.example3.com/
-    src: https://www.example3.com/favicon.ico
-    desc: ZZZ's Blog
+  - title: 热点读书网
+    url: https://www.happydot.top/
+    src: https://www.happydot.top/favicon.ico
+    desc: 热点读书网
 
 timeline:
   - num: 1
