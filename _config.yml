@@ -5,8 +5,8 @@
 # Site
 title: 老李
 subtitle: '个人博客'
-description: ''
-keywords:
+description: 'AI 编程实践与技术分享，涵盖大模型应用开发、编程工具、效率提升等方向'
+keywords: AI,编程,大模型,Hexo,技术博客,开发工具
 author: lgw
 language: zh-CN
 timezone: ''
@@ -106,3 +106,23 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Sitemap
+sitemap:
+  path:
+    - sitemap.xml
+    - sitemap.txt
+  tags: false
+  categories: false
+
+# Baidu Sitemap
+baidusitemap:
+  path: baidusitemap.xml
+
+# Robots.txt
+robotstxt:
+  user_agent: '*'
+  allow: /
+  sitemap:
+    - https://www.bookshare.top/sitemap.xml
+    - https://www.bookshare.top/baidusitemap.xml
